@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install apartment-activejob
+    $ gem 'apartment-activejob', github: 'startupdevhouse/apartment-activejob'
 
 ## Usage
 
